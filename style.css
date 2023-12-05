@@ -8,6 +8,7 @@
 a {
   color: cornsilk;
   padding: 20px;
+  text-decoration: none;
 }
 
 .nav-bar-area {
@@ -28,4 +29,7 @@ a {
 }
 ul {
   padding: 20px;
+  display: flex;
+  justify-content: space-evenly;
 }
+@media()
