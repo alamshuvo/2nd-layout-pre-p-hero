@@ -1,0 +1,31 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+a {
+  color: cornsilk;
+  padding: 20px;
+}
+
+.nav-bar-area {
+  background-color: black;
+}
+.nav-bar-area-wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.col-md-4 {
+  display: ;
+}
+.col-md-4 {
+  padding: 10px;
+  gap: 36px;
+  justify-content: right;
+}
+ul {
+  padding: 20px;
+}
