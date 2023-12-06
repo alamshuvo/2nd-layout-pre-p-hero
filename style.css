@@ -135,6 +135,13 @@ button.btn {
 
 
 /* blog area section end */
+/* footer area start */
+
+.footer-area {
+  background-color: black;
+  margin: 40px auto;
+}
+/* footer area end */
 @media(max-width:1000px){
 
 }
