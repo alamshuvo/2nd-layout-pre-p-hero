@@ -91,7 +91,47 @@ ul {
   .blog-area p {
     margin-top: 20px;
   }
+  /* final area start */
+  
+.final-blog-section {
+  margin-top: 40px;
+}
 
+.final-blog-section h1 {
+  margin-top: 20px;
+}
+.final-blog-section p{
+  margin-top: 20px;
+}
+.final-blog-section img{
+  margin-top: 20px;
+}
+
+.final-blog-section-part-1 {
+  display: flex;
+  margin-top: 20px;
+}
+.final-blog-section-part-2 {
+  display: flex;
+  margin-top: 20px;
+}
+
+.first-div.btn {
+  margin-top: 20px;
+}
+.first-div.btn {
+  margin-top: 20px;
+}
+button.btn {
+  margin-top: 20px;
+}
+.first-div h1 {
+  margin-top: 20px;
+}
+.first-div p {
+  margin-top: 20px;
+}
+/* final area end */
 
 
 /* blog area section end */
